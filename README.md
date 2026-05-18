@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Pedro
 
 🎯 Especializado em **Estruturação de Prompts**, **Inteligência Artificial Aplicada**, **Lógica de Programação** e **Diagramação de Projetos de Software**.
 
