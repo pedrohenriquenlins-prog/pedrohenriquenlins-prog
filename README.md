@@ -1,176 +1,93 @@
-# 👋 Olá, eu sou Pedro
+# 👨‍💻 Pedro Henrique | Desenvolvedor Full Stack em formação
 
-🎯 Especializado em **Estruturação de Prompts**, **Inteligência Artificial Aplicada**, **Lógica de Programação** e **Diagramação de Projetos de Software**.
+Olá! Seja bem-vindo ao meu GitHub! 👋
 
-Atuo desenvolvendo soluções orientadas por IA, organizando fluxos técnicos e transformando problemas complexos em estruturas claras, escaláveis e documentadas.
+Sou estudante de **Ciência da Computação na UDF** e tenho interesse em desenvolvimento de software, especialmente na área de **Desenvolvimento Full Stack**.
 
----
+Atualmente, estou construindo minha jornada na programação, desenvolvendo projetos acadêmicos e aprimorando meus conhecimentos em lógica de programação, desenvolvimento web e banco de dados.
 
-# 🚀 Sobre Mim
-
-Sou focado em construir projetos que unem:
-
-* Engenharia de Prompt
-* Automação Inteligente
-* Estruturação de Sistemas
-* Organização de Fluxos Técnicos
-* Arquitetura lógica de aplicações
-
-Tenho interesse especial em:
-
-* IA aplicada ao desenvolvimento
-* Chatbots inteligentes
-* Produtividade com IA
-* Estruturação de sistemas e documentação
-* Design lógico de software
+Meu objetivo é evoluir continuamente, criando aplicações que integrem interfaces intuitivas, funcionalidades eficientes e soluções bem estruturadas.
 
 ---
 
-# 🧠 Habilidades Técnicas
+## 🚀 Tecnologias e Ferramentas
 
-## 🔹 Inteligência Artificial & Prompts
+### 💻 Linguagens de Programação
 
-* Engenharia de Prompt
-* Estruturação de Contexto
-* IA aplicada à produtividade
-* Fluxos de automação com IA
-* Construção de assistentes inteligentes
-* Modelagem lógica para chatbots
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-## 🔹 Desenvolvimento & Lógica
+### 🗄️ Banco de Dados
 
-* Python
-* Estruturação backend
-* Lógica de programação
-* Organização de código escalável
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-## 🔹 Arquitetura & Organização
+### 🛠️ Ferramentas e Ambiente de Desenvolvimento
 
-* Diagramação de projetos
-* Fluxos de software
-* Estruturação de repositórios
-* Git & GitHub
-* Versionamento
-* Documentação técnica
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
 
-# 🤖 Como Utilizo IA no Meu Fluxo de Trabalho
+## 📚 Atualmente estudando
 
-A IA faz parte do meu processo técnico e estratégico de desenvolvimento.
-
-## 🔹 Meu fluxo com IA inclui:
-
-* Estruturação de prompts técnicos
-* Geração e refinamento de documentação
-* Organização de arquitetura de projetos
-* Criação de fluxos automatizados
-* Aceleração de debugging
-* Apoio em modelagem lógica
-* Produção de sistemas mais escaláveis
-
-## 🔹 Filosofia de uso
-
-Utilizo IA como ferramenta de amplificação técnica — não apenas para gerar código, mas para:
-
-* melhorar tomada de decisão,
-* acelerar análise,
-* organizar sistemas,
-* validar estruturas,
-* e aumentar qualidade de entrega.
+- Desenvolvimento Frontend com HTML, CSS e JavaScript.
+- Lógica de programação e algoritmos utilizando C.
+- Modelagem de dados e consultas SQL com MySQL.
+- Fundamentos de desenvolvimento Backend.
+- Integração entre frontend, backend e banco de dados.
+- Boas práticas de programação e organização de projetos.
 
 ---
 
-# 📌 Projetos em Destaque
+## 🎯 Objetivos
 
-## 🤖 Chatbot Inteligente
-
-Sistema de chatbot estruturado com foco em:
-
-* interpretação contextual,
-* prompts dinâmicos,
-* organização de respostas,
-* e lógica conversacional.
-
-### Tecnologias
-
-* Node.js
-* APIs de IA
-* Estruturação de Prompt
-* Fluxos Conversacionais
+- Evoluir como desenvolvedor Full Stack.
+- Construir aplicações web completas e funcionais.
+- Desenvolver projetos práticos que demonstrem minha evolução técnica.
+- Aprimorar conhecimentos em arquitetura de software e banco de dados.
+- Contribuir com projetos e comunidades de tecnologia.
+- Conquistar minha primeira oportunidade profissional na área de desenvolvimento.
 
 ---
 
-## 🧩 Estruturador de Projetos
+## 📂 Projetos
 
-Projeto voltado para:
+Aqui compartilho meus projetos acadêmicos, experimentos e aplicações desenvolvidas durante minha jornada na programação.
 
-* organização de arquitetura,
-* criação de estruturas de pastas,
-* documentação automática,
-* e padronização técnica.
+Cada repositório representa uma oportunidade de aprendizado, prática e evolução.
 
----
-
-## 📚 Biblioteca de Prompts Técnicos
-
-Coleção organizada de prompts para:
-
-* programação,
-* automação,
-* IA,
-* documentação,
-* análise técnica,
-* produtividade.
+🔎 **[Explore meus repositórios](https://github.com/pedrohenriquenlins-prog?tab=repositories)**
 
 ---
 
-# 📊 Estatísticas de Contribuição
+## 📊 GitHub Stats
 
-## 🔹 Atividade Técnica
-
-* Desenvolvimento contínuo de projetos com IA
-* Evolução constante de estruturas de prompts
-* Versionamento ativo no GitHub
-* Refinamento de arquitetura de sistemas
-
-## 🔹 Foco Atual
-
-* Engenharia de Prompt
-* IA aplicada ao desenvolvimento
-* Estruturação de sistemas inteligentes
-* Organização de ecossistemas GitHub
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquenlins-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquenlins-prog&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+## 📫 Contato
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge\&logo=openai)
+- 💼 GitHub: [@pedrohenriquenlins-prog](https://github.com/pedrohenriquenlins-prog)
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-538b4340b 
+- 📧 E-mail: pedrohenrique.nlins@gmail.com
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+**"A melhor maneira de aprender a programar é construindo, errando e evoluindo a cada projeto."** 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-```
-
----
-
-# 🌐 Contato
-
-* LinkedIn: [Seu LinkedIn]
-* Email: [Seu Email]
-* Portfólio: [Seu Site]
-
----
-
-# ⚡ Objetivo
-
-Construir soluções inteligentes, organizadas e escaláveis utilizando IA, lógica de programação e arquitetura técnica como base para criação de sistemas modernos.
+</div>
